@@ -1,0 +1,6 @@
+{
+  "name": "Pooja Mobile Repair",
+  "description": "Offline mobile repair shop management app for repairs, software jobs, wholesaler purchases, warranty tracking, and universal display stock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
